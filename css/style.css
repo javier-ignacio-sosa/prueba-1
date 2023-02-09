@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    background-color: burlywood;
+    color: rgba(82, 4, 4, 0.603);
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
+}
+.divbar{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
